@@ -1,0 +1,21 @@
+.note{
+   box-shadow: 5px 15px 1em rgb(157, 255, 112);
+   margin-top: 20px; 
+   font-size: 15px;
+}
+
+h1{
+    margin-top: 20px;
+}
+
+#song
+{
+    font-size: 23px;
+    margin: 15px;
+}
+
+canvas{
+    border: 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(223, 255, 82);
+}
